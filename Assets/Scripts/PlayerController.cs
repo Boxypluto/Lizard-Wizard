@@ -8,11 +8,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     float speed;
     private GameObject Slash;
+    private Collider2D SlashCollider;
+    private bool IsSlashing = false;
 
     // Start is called before the first frame update
     void Start()
     {
         Slash = GameObject.Find("Slash");
+        SlashCollider = Slash.GetComponent<Collider2D>();
+        
     }
 
     // Update is called once per frame
@@ -78,4 +82,5 @@ public class PlayerController : MonoBehaviour
     }
 
     #endregion
+
 }
