@@ -11,15 +11,17 @@ public class PlayerController : MonoBehaviour
     private Collider2D SlashCollider;
     private bool IsSlashing = false;
     private bool CanSlash = true;
-    private Animator Anim;
+    private Animator SlashAnim;
 
     // Start is called before the first frame update
     void Start()
     {
         Slash = GameObject.Find("Slash");
         SlashCollider = Slash.GetComponent<Collider2D>();
-        Anim = GetComponent<Animator>();
-        
+        SlashAnim = Slash.GetComponent<Animator>();
+        SlashCollider.enabled = false;
+
+
     }
 
     // Update is called once per frame
@@ -35,7 +37,7 @@ public class PlayerController : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.X))
         {
-            Anim.SetTrigger("Slash");
+            SlashAnim.SetTrigger("Slash");
         }
 
     }
