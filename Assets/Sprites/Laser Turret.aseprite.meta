@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 66953301ab94ad24eab39840f0934cd3
+guid: 76f8eb4147eb74b4b816dcd297779242
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638350446801830135
+  platformSettingsDirtyTick: 638350447113372368
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -119,58 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Liz Slash
+  - name: Laser Turret
     originalName: 
-    pivot: {x: 1, y: -1.6666667}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 42
-      width: 4
-      height: 3
-    spriteID: b7ecab4748691b346b10da1684eab538
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 42}
-  - name: Liz Slash_Frame_1
-    originalName: 
-    pivot: {x: 0.6666667, y: -1.6666667}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 31
-      width: 6
-      height: 3
-    spriteID: 881e8c3d17d053d4dabb47cd80a2ab2e
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 31}
-  - name: Liz Slash_Frame_2
-    originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.6, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 8
+      width: 5
       height: 8
-    spriteID: 3e0ad40fedeb9ff4a95a201c9b2bf0df
+    spriteID: 3911b6a71d5cb70479e10fde6951078f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -179,95 +139,23 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Liz Slash_Frame_3
-    originalName: 
-    pivot: {x: 0.5714286, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 20
-      width: 7
-      height: 3
-    spriteID: b4a49d78dcc96a54b884dd19a3106f14
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 20}
-  - name: Liz Slash_Frame_4
-    originalName: 
-    pivot: {x: 1, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 53
-      width: 4
-      height: 3
-    spriteID: 33c85e772046fcb4683923dbe5a65fe0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 53}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -154440024
-    name: Liz Slash
+    guid: 2024104001
+    name: Laser Turret
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Liz Slash_Frame_0
+    - name: Laser Turret
       frameIndex: 0
       cellRect:
-        x: 0
-        y: 5
-        width: 4
-        height: 3
-      spriteId: b7ecab4748691b346b10da1684eab538
-    - name: Liz Slash_Frame_1
-      frameIndex: 1
-      cellRect:
-        x: 0
-        y: 5
-        width: 6
-        height: 3
-      spriteId: 881e8c3d17d053d4dabb47cd80a2ab2e
-    - name: Liz Slash_Frame_2
-      frameIndex: 2
-      cellRect:
-        x: 0
+        x: 1
         y: 0
-        width: 8
+        width: 5
         height: 8
-      spriteId: 3e0ad40fedeb9ff4a95a201c9b2bf0df
-    - name: Liz Slash_Frame_3
-      frameIndex: 3
-      cellRect:
-        x: 0
-        y: 0
-        width: 7
-        height: 3
-      spriteId: b4a49d78dcc96a54b884dd19a3106f14
-    - name: Liz Slash_Frame_4
-      frameIndex: 4
-      cellRect:
-        x: 0
-        y: 0
-        width: 4
-        height: 3
-      spriteId: 33c85e772046fcb4683923dbe5a65fe0
+      spriteId: 3911b6a71d5cb70479e10fde6951078f
     linkedCells: []
     parentIndex: -1
   platformSettings:

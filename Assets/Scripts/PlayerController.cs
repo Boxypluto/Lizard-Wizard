@@ -10,12 +10,15 @@ public class PlayerController : MonoBehaviour
     private GameObject Slash;
     private Collider2D SlashCollider;
     private bool IsSlashing = false;
+    private bool CanSlash = true;
+    private Animator Anim;
 
     // Start is called before the first frame update
     void Start()
     {
         Slash = GameObject.Find("Slash");
         SlashCollider = Slash.GetComponent<Collider2D>();
+        Anim = GetComponent<Animator>();
         
     }
 
@@ -29,6 +32,11 @@ public class PlayerController : MonoBehaviour
         transform.position += new Vector3(XInput * Time.deltaTime * speed, YInput * Time.deltaTime * speed, 0);
 
         SlashUpdate(XInput, YInput);
+        
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            Anim.SetTrigger("Slash");
+        }
 
     }
 
