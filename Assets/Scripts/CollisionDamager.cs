@@ -8,7 +8,7 @@ public class CollisionDamager : MonoBehaviour
     public int damageToDeal;
     public LayerMask LayerToDamage;
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         print("Collision!");
         GameObject hitObject = collision.gameObject;

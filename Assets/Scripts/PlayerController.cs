@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -12,6 +13,8 @@ public class PlayerController : MonoBehaviour
     private bool IsSlashing = false;
     private bool CanSlash = true;
     private Animator SlashAnim;
+    private Rigidbody2D PlayerRB;
+    private Vector3 MoveAmount;
 
     // Start is called before the first frame update
     void Start()
@@ -20,18 +23,24 @@ public class PlayerController : MonoBehaviour
         SlashCollider = Slash.GetComponent<Collider2D>();
         SlashAnim = Slash.GetComponent<Animator>();
         SlashCollider.enabled = false;
-
+        PlayerRB = GetComponent<Rigidbody2D>();
 
     }
 
     // Update is called once per frame
     void Update()
     {
+        MoveAmount = new Vector3(0, 0, 0);
+        
 
         float XInput = Input.GetAxisRaw("Horizontal");
         float YInput = Input.GetAxisRaw("Vertical");
 
-        transform.position += new Vector3(XInput * Time.deltaTime * speed, YInput * Time.deltaTime * speed, 0);
+        MoveAmount = transform.position;
+
+        MoveAmount += new Vector3(XInput * Time.deltaTime * speed, YInput * Time.deltaTime * speed, 0);
+
+        PlayerRB.MovePosition(MoveAmount);
 
         SlashUpdate(XInput, YInput);
         
