@@ -16,6 +16,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D PlayerRB;
     private Vector3 MoveAmount;
     public bool PlayerCanMove = true;
+    [SerializeField]
+    private float SlashKnockbackPlayer = 0f;
+    float XInput;
+    float YInput;
 
     // Start is called before the first frame update
     void Start()
@@ -34,8 +38,8 @@ public class PlayerController : MonoBehaviour
         MoveAmount = new Vector3(0, 0, 0);
         
 
-        float XInput = Input.GetAxisRaw("Horizontal");
-        float YInput = Input.GetAxisRaw("Vertical");
+        XInput = Input.GetAxisRaw("Horizontal");
+        YInput = Input.GetAxisRaw("Vertical");
 
         MoveAmount = transform.position;
 
@@ -57,14 +61,23 @@ public class PlayerController : MonoBehaviour
 
     public void PlayerKnockback()
     {
-        StartCoroutine("PlayerKnockback");
+        PlayerCanMove = false;
+        AddForceAtAngle(SlashKnockbackPlayer, Slash.transform.rotation.eulerAngles.z - 90);
+        Invoke("ResetKnockback", 0.2f);
     }
 
-    private IEnumerator PlayerKnockback(float WaitTime)
+    public void AddForceAtAngle(float force, float angle)
     {
-        print("Start");
-        yield return new WaitForSeconds(WaitTime);
-        print("End");
+        float xcomponent = Mathf.Cos(angle * Mathf.PI / 180) * force;
+        float ycomponent = Mathf.Sin(angle * Mathf.PI / 180) * force;
+
+        PlayerRB.AddForce(new Vector2(ycomponent, xcomponent));
+    }
+
+    void ResetKnockback()
+    {
+        PlayerCanMove = true;
+        PlayerRB.velocity = new Vector2(0f, 0f);
     }
 
     #region SLASH
