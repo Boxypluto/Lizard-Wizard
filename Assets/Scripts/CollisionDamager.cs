@@ -7,7 +7,7 @@ public class CollisionDamager : MonoBehaviour
 {
 
     public int damageToDeal;
-    public LayerMask LayerToDamage;
+    public int LayerToDamage;
     public UnityEvent OnSuccesfulDamage;
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -16,9 +16,9 @@ public class CollisionDamager : MonoBehaviour
         GameObject hitObject = collision.gameObject;
 
         print(hitObject.layer);
-        print(LayerToDamage.value);
+        print(LayerToDamage);
 
-        if (hitObject.layer == LayerToDamage.value)
+        if (hitObject.layer == LayerToDamage)
         {
             TryDamageObject(hitObject);
         }
