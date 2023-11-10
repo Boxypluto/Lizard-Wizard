@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     private Animator SlashAnim;
     private Rigidbody2D PlayerRB;
     private Vector3 MoveAmount;
+    public bool PlayerCanMove = true;
 
     // Start is called before the first frame update
     void Start()
@@ -40,7 +41,10 @@ public class PlayerController : MonoBehaviour
 
         MoveAmount += new Vector3(XInput * Time.deltaTime * speed, YInput * Time.deltaTime * speed, 0);
 
-        PlayerRB.MovePosition(MoveAmount);
+        if (PlayerCanMove)
+        {
+            PlayerRB.MovePosition(MoveAmount);
+        }
 
         SlashUpdate(XInput, YInput);
         
@@ -49,6 +53,18 @@ public class PlayerController : MonoBehaviour
             SlashAnim.SetTrigger("Slash");
         }
 
+    }
+
+    public void PlayerKnockback()
+    {
+        StartCoroutine("PlayerKnockback");
+    }
+
+    private IEnumerator PlayerKnockback(float WaitTime)
+    {
+        print("Start");
+        yield return new WaitForSeconds(WaitTime);
+        print("End");
     }
 
     #region SLASH
