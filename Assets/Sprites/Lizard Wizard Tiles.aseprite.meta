@@ -118,27 +118,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
-  animatedSpriteImportData:
-  - name: Lizard Wizard Tiles
-    originalName: 
-    pivot: {x: 2.2857144, y: -7}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 4
-      width: 14
-      height: 8
-    spriteID: 5001b01d2768c734db11438dad1ec7f3
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 4}
+  animatedSpriteImportData: []
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -147,15 +127,7 @@ ScriptedImporter:
     layerFlags: 0
     layerType: 0
     blendMode: 0
-    cells:
-    - name: Lizard Wizard Tiles
-      frameIndex: 0
-      cellRect:
-        x: 0
-        y: 56
-        width: 14
-        height: 8
-      spriteId: 5001b01d2768c734db11438dad1ec7f3
+    cells: []
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -209,4 +181,4 @@ ScriptedImporter:
     androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 64, y: 64}
+  canvasSize: {x: 112, y: 112}
