@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 76f8eb4147eb74b4b816dcd297779242
+guid: ae997fcaed69ae44d8bdea1452397ecc
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638351131645379759
+  platformSettingsDirtyTick: 638352342628086413
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -119,18 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Laser Turret
+  - name: Liz
     originalName: 
-    pivot: {x: 0.6, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 5
+      width: 7
       height: 8
-    spriteID: 3911b6a71d5cb70479e10fde6951078f
+    spriteID: 05d0eb8c089413143be28a9b97ef001b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,20 +142,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 2024104001
-    name: Laser Turret
+    guid: 1756734115
+    name: Liz
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Laser Turret
+    - name: Liz
       frameIndex: 0
       cellRect:
         x: 1
         y: 0
-        width: 5
+        width: 7
         height: 8
-      spriteId: 3911b6a71d5cb70479e10fde6951078f
+      spriteId: 05d0eb8c089413143be28a9b97ef001b
     linkedCells: []
     parentIndex: -1
   platformSettings:

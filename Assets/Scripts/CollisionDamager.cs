@@ -27,9 +27,9 @@ public class CollisionDamager : MonoBehaviour
     {
         if (objectToDamage.TryGetComponent(out Damageable damageableObject))
         {
+            OnSuccesfulDamage.Invoke();
             damageableObject.DealDamage(-damageToDeal);
             print(damageableObject.ToString() + " damaged for " + damageToDeal + " HP!");
-            OnSuccesfulDamage.Invoke();
         } else
         {
             print(objectToDamage.ToString() + " cannot be damaged!");

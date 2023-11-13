@@ -10,6 +10,10 @@ public class Damageable : MonoBehaviour
 {
 
     public UnityEvent OnDamaged;
+    public UnityEvent OnShielded;
+
+    public bool CanBeShielded;
+    public bool Shielded = false;
 
     Health health;
     private void Awake()
@@ -18,7 +22,16 @@ public class Damageable : MonoBehaviour
     }
     public void DealDamage(int damageAmount)
     {
-        health.ChangeHealth(damageAmount);
-        OnDamaged.Invoke();
+        if (CanBeShielded && Shielded)
+        {
+
+            OnShielded.Invoke();
+
+        } else
+        {
+            health.ChangeHealth(damageAmount);
+            OnDamaged.Invoke();
+        }
     }
+
 }

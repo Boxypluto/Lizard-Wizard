@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 61e0079ea5cdacf4ebdd5d960640387b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aaa16bfc62c086f4fb45da87b6acf9b1, type: 3}
+  _reimportOnDependencyChange: 1
+  _jsonFile: {fileID: -164016180542632921, guid: 61e0079ea5cdacf4ebdd5d960640387b, type: 3}
+  _pixelsPerUnit: 8
+  _customLevelPrefab: {instanceID: 0}
+  _intGridValueColorsVisible: 0
+  _useCompositeCollider: 1
+  _geometryType: 0
+  _createBackgroundColor: 1
+  _createLevelBoundsTrigger: 0
+  _intGridValues:
+  - _key: IntGrid_1
+    _asset: {fileID: 11400000, guid: b73ff79e1b696e54cb0633bfb9df6479, type: 2}
+  _entities:
+  - _key: Glyph
+    _asset: {fileID: 4601438485823086873, guid: 215dc81a38581194eb4adf66dd506316, type: 3}
+  - _key: Turret
+    _asset: {fileID: 9019121215243046381, guid: ddc5effe54182e74badfc725aa5e0741, type: 3}
+  - _key: Shield_Generator
+    _asset: {fileID: 3410971076970617022, guid: bb323c4859eacc64882175ea3078caa7, type: 3}
+  - _key: Spawn_Point
+    _asset: {fileID: -2253911629886400664, guid: 8e279d5ebb28cb94d9ccd2c9747a2055, type: 3}
+  _enumGenerate: 0
+  _enumPath: 
+  _enumNamespace: 

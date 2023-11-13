@@ -10,8 +10,6 @@ public class PlayerController : MonoBehaviour
     float speed;
     private GameObject Slash;
     private Collider2D SlashCollider;
-    private bool IsSlashing = false;
-    private bool CanSlash = true;
     private Animator SlashAnim;
     private Rigidbody2D PlayerRB;
     private Vector3 MoveAmount;
