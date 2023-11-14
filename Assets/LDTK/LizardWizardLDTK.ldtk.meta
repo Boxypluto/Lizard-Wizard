@@ -19,7 +19,7 @@ ScriptedImporter:
   _createLevelBoundsTrigger: 0
   _intGridValues:
   - _key: IntGrid_1
-    _asset: {instanceID: 0}
+    _asset: {fileID: 11400000, guid: bd35f63f189a34044b9c37cb7b8ae103, type: 2}
   _entities:
   - _key: Glyph
     _asset: {fileID: 4601438485823086873, guid: 215dc81a38581194eb4adf66dd506316, type: 3}

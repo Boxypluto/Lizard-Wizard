@@ -126,7 +126,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
+      x: 20
       y: 4
       width: 7
       height: 8
@@ -138,7 +138,67 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
+    uvTransform: {x: 20, y: 4}
+  - name: Liz_Frame_1
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 20
+      y: 20
+      width: 7
+      height: 7
+    spriteID: c83b904d48cf43c4fa6c4a22b4af719c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 20, y: 20}
+  - name: Liz_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 8
+      height: 8
+    spriteID: 2487db4ebd7c0b944bfbe8f7cf6f94b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
+  - name: Liz_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 20
+      width: 8
+      height: 8
+    spriteID: 9a1744e0c5805374f8d0a154ec267969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 20}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -148,7 +208,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Liz
+    - name: Liz_Frame_0
       frameIndex: 0
       cellRect:
         x: 1
@@ -156,6 +216,30 @@ ScriptedImporter:
         width: 7
         height: 8
       spriteId: 05d0eb8c089413143be28a9b97ef001b
+    - name: Liz_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 0
+        width: 7
+        height: 7
+      spriteId: c83b904d48cf43c4fa6c4a22b4af719c
+    - name: Liz_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      spriteId: 2487db4ebd7c0b944bfbe8f7cf6f94b3
+    - name: Liz_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      spriteId: 9a1744e0c5805374f8d0a154ec267969
     linkedCells: []
     parentIndex: -1
   platformSettings:
