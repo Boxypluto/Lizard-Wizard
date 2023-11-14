@@ -27,6 +27,8 @@ ScriptedImporter:
     _asset: {fileID: 9019121215243046381, guid: ddc5effe54182e74badfc725aa5e0741, type: 3}
   - _key: Shield_Generator
     _asset: {fileID: 3410971076970617022, guid: bb323c4859eacc64882175ea3078caa7, type: 3}
+  - _key: SpawnPoint
+    _asset: {instanceID: 0}
   _enumGenerate: 0
   _enumPath: 
   _enumNamespace: 

@@ -6,24 +6,29 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    [SerializeField]
-    float speed;
+    // Non Visible
     private GameObject Slash;
     private Collider2D SlashCollider;
     private Animator SlashAnim;
     private Animator PlayerAnim;
     private Rigidbody2D PlayerRB;
     private Vector3 MoveAmount;
-    public bool PlayerCanMove = true;
-    [SerializeField]
-    private float SlashKnockbackPlayer = 0f;
     float XInput;
     float YInput;
     private Damageable PlayerDamageable;
     private Animator CloakUIAnim;
+    private Health health;
+
+    // Visible
+    [SerializeField]
+    float speed;
+    public bool PlayerCanMove = true;
+    [SerializeField]
+    private float SlashKnockbackPlayer = 0f;
     public string CloakState = "Ready";
     public float CloakTime = 1f;
     public float CloakRecharge = 3f;
+    public GameObject[] Hearts;
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +41,7 @@ public class PlayerController : MonoBehaviour
         PlayerDamageable = GetComponent<Damageable>();
         PlayerAnim = GetComponent<Animator>();
         CloakUIAnim = GameObject.Find("Cloak UI").GetComponent<Animator>();
+        health = GetComponent<Health>();
     }
 
     // Update is called once per frame
@@ -64,7 +70,7 @@ public class PlayerController : MonoBehaviour
         }
 
         CloakUpdate();
-
+        UIUpdate();
     }
 
     public void PlayerKnockback()
@@ -139,6 +145,7 @@ public class PlayerController : MonoBehaviour
 
     #endregion
 
+    #region CLOAK
     void CloakUpdate()
     {
         if (Input.GetKeyDown(KeyCode.Z) && CloakState == "Ready") {
@@ -164,5 +171,24 @@ public class PlayerController : MonoBehaviour
         CloakUIAnim.SetInteger("State", 0);
         CloakState = "Ready";
     }
+    #endregion
 
+    #region UI
+
+    void UIUpdate()
+    {
+
+        for (int i = 0; i < Hearts.Length; i++)
+        {
+            bool active = false;
+            if (health.HitPoints-1 >= i)
+            {
+                active = true;
+            }
+            Hearts[i].SetActive(active);
+        }
+
+    }
+
+    #endregion
 }

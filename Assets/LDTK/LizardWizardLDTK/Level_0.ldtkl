@@ -150,6 +150,22 @@
 					"defUid": 8,
 					"px": [68,36],
 					"fieldInstances": []
+				},
+				{
+					"__identifier": "SpawnPoint",
+					"__grid": [2,7],
+					"__pivot": [0,0],
+					"__tags": [],
+					"__tile": { "tilesetUid": 7, "x": 320, "y": 176, "w": 16, "h": 16 },
+					"__smartColor": "#D77643",
+					"__worldX": 16,
+					"__worldY": 56,
+					"iid": "26f66d60-6280-11ee-b3d6-cd4f2ccda916",
+					"width": 8,
+					"height": 8,
+					"defUid": 95,
+					"px": [16,56],
+					"fieldInstances": []
 				}
 			]
 		},
@@ -347,5 +363,5 @@
 			"entityInstances": []
 		}
 	],
-	"__neighbours": [{ "levelIid": "f45ce160-6280-11ee-ba12-b71178259309", "dir": "e" }]
+	"__neighbours": [{ "levelIid": "42416d40-6280-11ee-b3d6-ed39a313d5e0", "dir": "e" }]
 }

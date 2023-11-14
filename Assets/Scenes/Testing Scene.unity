@@ -809,7 +809,7 @@ PrefabInstance:
       objectReference: {fileID: 125307950}
     - target: {fileID: 2585885720996491341, guid: 5df6ff55f89cd5e45958d95a1a4e4e29, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.94
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: 2585885720996491341, guid: 5df6ff55f89cd5e45958d95a1a4e4e29, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1273,12 +1273,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cd9decdeb411348b6534fc26b1090d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
+  speed: 32
   PlayerCanMove: 1
   SlashKnockbackPlayer: 256
   CloakState: Ready
   CloakTime: 0.3
   CloakRecharge: 0.7
+  Hearts:
+  - {fileID: 1646230300}
+  - {fileID: 897123691}
+  - {fileID: 859646870}
+  - {fileID: 1706046619}
+  - {fileID: 1035817345}
 --- !u!4 &612551534
 Transform:
   m_ObjectHideFlags: 0
@@ -1453,6 +1459,50 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &850754246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 850754248}
+  - component: {fileID: 850754247}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &850754247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850754246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b92e30c77a349545b3684032a1449f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &850754248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850754246}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.741327, y: 0.2497307, z: -10.12858}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &859646870
 GameObject:
   m_ObjectHideFlags: 0
@@ -1465,7 +1515,7 @@ GameObject:
   - component: {fileID: 859646873}
   - component: {fileID: 859646872}
   m_Layer: 5
-  m_Name: Image (2)
+  m_Name: Heart 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1540,7 +1590,7 @@ GameObject:
   - component: {fileID: 897123694}
   - component: {fileID: 897123693}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: Heart 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1615,7 +1665,7 @@ GameObject:
   - component: {fileID: 1035817348}
   - component: {fileID: 1035817347}
   m_Layer: 5
-  m_Name: Image (4)
+  m_Name: Heart 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1678,6 +1728,58 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1035817345}
   m_CullTransparentMesh: 1
+--- !u!1 &1552114686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1552114688}
+  - component: {fileID: 1552114687}
+  m_Layer: 0
+  m_Name: MainManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1552114687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552114686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef9cbf0f60b8f644da52679cce5b6856, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RoomsCleared: 0
+  EasyRooms:
+  - {fileID: 8000468144035134150, guid: 5df6ff55f89cd5e45958d95a1a4e4e29, type: 3}
+  - {fileID: 4994227485657439157, guid: b1ecba155861c41429022d9a06547b25, type: 3}
+  MediumRooms: []
+  HardRooms: []
+  RoomList: []
+  RoomsInDifficulty: 7
+--- !u!4 &1552114688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1552114686}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.487787, y: -2.3179054, z: -10.162451}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1646230300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1690,7 +1792,7 @@ GameObject:
   - component: {fileID: 1646230303}
   - component: {fileID: 1646230302}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Heart 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1765,7 +1867,7 @@ GameObject:
   - component: {fileID: 1706046622}
   - component: {fileID: 1706046621}
   m_Layer: 5
-  m_Name: Image (3)
+  m_Name: Heart 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2194,3 +2296,5 @@ SceneRoots:
   - {fileID: 1833926046}
   - {fileID: 2108756547}
   - {fileID: 125307948}
+  - {fileID: 1552114688}
+  - {fileID: 850754248}
