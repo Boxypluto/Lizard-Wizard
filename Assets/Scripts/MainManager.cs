@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,7 +11,7 @@ public class MainManager : MonoBehaviour
     public GameObject[] EasyRooms;
     public GameObject[] MediumRooms;
     public GameObject[] HardRooms;
-    public GameObject[] RoomList;
+    public List<GameObject> RoomList = new List<GameObject>();
     public int RoomsInDifficulty = 7;
 
     private void Awake()
@@ -23,6 +24,7 @@ public class MainManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+        SetupRoomList();
     }
 
     void SetupRoomList()
@@ -30,34 +32,35 @@ public class MainManager : MonoBehaviour
 
         GameObject[] TempEasyRooms = EasyRooms;
         GameObject[] TempMediumRooms = MediumRooms;
-        GameObject[] TemphardRooms = HardRooms;
+        GameObject[] TempHardRooms = HardRooms;
 
-        for (int i = 0; i < 3*RoomsInDifficulty; i++)
+        for (int i = 0; i < RoomsInDifficulty; i++)
         {
-            if (i >= 0 && i < RoomsInDifficulty)
-            {
-                GameObject pick = EasyRooms[Random.Range(0, EasyRooms.Length-1)];
-                //RoomList
-
-            }
-            else if (i >= RoomsInDifficulty && i < RoomsInDifficulty * 2)
-            {
-
-
-            }
-            else if (i >= RoomsInDifficulty * 2 && i < RoomsInDifficulty * 3)
-            {
-
-            }
+            RoomList.Add(TempEasyRooms[Random.Range(0, TempEasyRooms.Length)]);
+        }
+        for (int i = 0; i < RoomsInDifficulty; i++)
+        {
+            RoomList.Add(TempMediumRooms[Random.Range(0, TempMediumRooms.Length)]);
+        }
+        for (int i = 0; i < RoomsInDifficulty; i++)
+        {
+            RoomList.Add(TempHardRooms[Random.Range(0, TempHardRooms.Length)]);
         }
 
+        for (int i = 0; i < RoomList.Count; i++)
+        {
+            print(RoomList[i]);
+        }
 
     }
 
     public void LoadNextRoom()
     {
         RoomsCleared++;
-        
+        SceneManager.LoadScene("Room");
+
     }
+
+    
 
 }

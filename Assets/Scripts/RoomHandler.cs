@@ -5,14 +5,18 @@ using UnityEngine;
 public class RoomHandler : MonoBehaviour
 {
 
+    private MainManager mainManager;
+
     void Start()
     {
-        
+        mainManager = MainManager.Instance;
+        LoadCurrentRoom();
+        print(GameObject.FindGameObjectsWithTag("Enemy").Length);
     }
 
-    // Update is called once per frame
-    void Update()
+    void LoadCurrentRoom()
     {
-        
+        GameObject newRoom = GameObject.Instantiate(mainManager.RoomList[mainManager.RoomsCleared]);
+        newRoom.transform.position = new Vector2(-8, -8);
     }
 }
