@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private GameObject Slash;
     private Collider2D SlashCollider;
     private Animator SlashAnim;
+    private Animator PlayerAnim;
     private Rigidbody2D PlayerRB;
     private Vector3 MoveAmount;
     public bool PlayerCanMove = true;
@@ -18,6 +19,11 @@ public class PlayerController : MonoBehaviour
     private float SlashKnockbackPlayer = 0f;
     float XInput;
     float YInput;
+    private Damageable PlayerDamageable;
+    private Animator CloakUIAnim;
+    public string CloakState = "Ready";
+    public float CloakTime = 1f;
+    public float CloakRecharge = 3f;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +33,9 @@ public class PlayerController : MonoBehaviour
         SlashAnim = Slash.GetComponent<Animator>();
         SlashCollider.enabled = false;
         PlayerRB = GetComponent<Rigidbody2D>();
-
+        PlayerDamageable = GetComponent<Damageable>();
+        PlayerAnim = GetComponent<Animator>();
+        CloakUIAnim = GameObject.Find("Cloak UI").GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -54,6 +62,8 @@ public class PlayerController : MonoBehaviour
         {
             SlashAnim.SetTrigger("Slash");
         }
+
+        CloakUpdate();
 
     }
 
@@ -128,5 +138,31 @@ public class PlayerController : MonoBehaviour
     }
 
     #endregion
+
+    void CloakUpdate()
+    {
+        if (Input.GetKeyDown(KeyCode.Z) && CloakState == "Ready") {
+            CloakState = "Cloaked";
+            PlayerDamageable.Invincible = true;
+            PlayerAnim.SetBool("Cloaked", true);
+            CloakUIAnim.SetInteger("State", 1);
+            Invoke(nameof(EndCloak), CloakTime);
+        }
+    }
+
+    void EndCloak()
+    {
+        CloakState = "Charging";
+        PlayerDamageable.Invincible = false;
+        PlayerAnim.SetBool("Cloaked", false);
+        CloakUIAnim.SetInteger("State", 2);
+        Invoke(nameof(ChargeCloak), CloakRecharge);
+    }
+
+    void ChargeCloak()
+    {
+        CloakUIAnim.SetInteger("State", 0);
+        CloakState = "Ready";
+    }
 
 }

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Liz Cloak
+  m_Name: Liz Uncloak
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,11 +21,11 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 1444415528, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
-    - time: 0.083333336
       value: {fileID: -273314960, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
+    - time: 0.083333336
+      value: {fileID: 1444415528, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
     - time: 0.15
-      value: {fileID: -965390142, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
+      value: {fileID: -871240113, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,9 +48,9 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 1444415528, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
     - {fileID: -273314960, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
-    - {fileID: -965390142, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
+    - {fileID: 1444415528, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
+    - {fileID: -871240113, guid: a4ccd06855c53b2498ad5530ad3aeda2, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

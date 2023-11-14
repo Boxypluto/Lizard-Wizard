@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1747588461
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -1608684237, guid: 6373c3a44226ce74fbbe44d1adc3fe0c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -222,6 +222,7 @@ MonoBehaviour:
       m_Calls: []
   CanBeShielded: 1
   Shielded: 0
+  Invincible: 0
 --- !u!114 &8811984887865746715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -381,7 +382,7 @@ TrailRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1424939607
-  m_SortingLayer: -1
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Time: 5
   m_PreviewTimeScale: 1

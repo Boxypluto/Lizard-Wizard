@@ -42,9 +42,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Effects
     uniqueID: 2870027689
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Objects
+    uniqueID: 1747588461
     locked: 0

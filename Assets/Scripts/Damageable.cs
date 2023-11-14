@@ -14,6 +14,7 @@ public class Damageable : MonoBehaviour
 
     public bool CanBeShielded;
     public bool Shielded = false;
+    public bool Invincible = false;
 
     Health health;
     private void Awake()
@@ -27,7 +28,7 @@ public class Damageable : MonoBehaviour
 
             OnShielded.Invoke();
 
-        } else
+        } else if (!Invincible)
         {
             health.ChangeHealth(damageAmount);
             OnDamaged.Invoke();
