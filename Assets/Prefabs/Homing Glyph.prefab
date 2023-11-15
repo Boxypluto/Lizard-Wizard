@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 9148002648036380016}
   - component: {fileID: 8811984887865746715}
   - component: {fileID: 1201824188879880915}
+  - component: {fileID: -2112375428326011137}
   - component: {fileID: 2784886814671738640}
   - component: {fileID: 2223078622679512551}
   m_Layer: 8
@@ -158,6 +159,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: -2112375428326011137}
+        m_TargetAssemblyTypeName: MMMessager, Assembly-CSharp
+        m_MethodName: BroadcastEnemyDeath
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   CollisionCheck: Player
   DamageObject: 1
   ObjectToDamageName: Player
@@ -181,6 +194,18 @@ MonoBehaviour:
       - m_Target: {fileID: 8811984887865746715}
         m_TargetAssemblyTypeName: DestructableObject, Assembly-CSharp
         m_MethodName: DestroyObject
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: -2787019852053142028, guid: bb323c4859eacc64882175ea3078caa7, type: 3}
+        m_TargetAssemblyTypeName: MMMessager, Assembly-CSharp
+        m_MethodName: BroadcastEnemyDeath
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -257,11 +282,23 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &-2112375428326011137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4601438485823086873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a5f50af074b144aadc431e85712cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2784886814671738640
 MonoBehaviour:
   m_ObjectHideFlags: 0

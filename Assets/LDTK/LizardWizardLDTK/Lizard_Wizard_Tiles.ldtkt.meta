@@ -19,7 +19,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 9411413ca866134409c217d1d481f4d3
@@ -33,7 +33,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 4a4a94c9c7334b747a7a91c9e3a25248
@@ -47,7 +47,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 53b774e314ccfe349a14847d38deb2e2
@@ -61,7 +61,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 2e27c1649619b1a4b84da78da6763046
@@ -75,7 +75,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 1311b15a8b5ec7b4ebb6c44ea445da75
@@ -89,7 +89,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: ecac2b28e28e27c49bd403ca99512a1b
@@ -103,7 +103,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 81088d5398fc41244a8f34ec218f77c6
@@ -117,7 +117,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 65bd7be4a65a4be4b9aacfb9c8c25073
@@ -131,7 +131,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: aba3b7d241ea952499c6f5016dc00bd3
@@ -145,7 +145,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: f51321a35be83b84094624628a47425f
@@ -159,7 +159,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 0443a2e0ae33990408aa8690941a0bbf
@@ -173,7 +173,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: ee60e63bca0b50b4499ca61e797fc880
@@ -187,7 +187,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 88c62f1be28dc0f49b298b92d2eecd79
@@ -201,7 +201,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 104
+      y: 328
       width: 8
       height: 8
     spriteID: 6d2b9f405cfa444488ff72a06124ba3a
@@ -215,7 +215,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: c524207b03b3be047a48ef436158ad20
@@ -229,7 +229,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 5c0664beb74cc38408d3c603ee010811
@@ -243,7 +243,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 0bb3b6bcb5d51b94ebffee680ecceded
@@ -257,7 +257,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 67e346c1029ff1244878f356cad3a196
@@ -271,7 +271,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: b5f7fd21358679640a4244cec859c8c1
@@ -285,7 +285,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: ccb568bd17db6104083cc69e21524943
@@ -299,7 +299,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: cf05beb646bc50b4baa6c1880f4d2566
@@ -313,7 +313,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 00066972a031fbf46bd6ccef52ab4f35
@@ -327,7 +327,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 5ab636250627c584196045d9c0e01590
@@ -341,7 +341,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 6ccdaa49af9a9624a8d17a2655e0a3c9
@@ -355,7 +355,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: bd7334a77a422814ba03388d49733e30
@@ -369,7 +369,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 4e08fe9ea80aa0641b34dbcf46fe8a28
@@ -383,7 +383,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: 9875c3b7862f9094aac65ec57ede824c
@@ -397,7 +397,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 96
+      y: 320
       width: 8
       height: 8
     spriteID: d95fcd23ace7d6c49aae271d73a3ba11
@@ -411,7 +411,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: aa285ac6af156484b8e73e3abcea6cda
@@ -425,7 +425,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 49663f8902e88f143954445048f89568
@@ -439,7 +439,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: b19889c8ae1374247b382f748df44f15
@@ -453,7 +453,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 69d05fab5b95995419e2a292c448e8b4
@@ -467,7 +467,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: fadf9e84740991448b06c81f023c4b1d
@@ -481,7 +481,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: ba18c7023a10e794b8a96a31d7758fe6
@@ -495,7 +495,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 024d5c827d5c7bd459b5a3e138d24793
@@ -509,7 +509,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: d8745c82e8ccc664eabfbfb689db9cf8
@@ -523,7 +523,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 9606c1d9f6f896b418cb608fb3c17198
@@ -537,7 +537,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: d5fba8f73e0b61549a0e4c92e395b28e
@@ -551,7 +551,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: bea8a1e7a288ce3428769734e99f5476
@@ -565,7 +565,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 71bdf9421366ec14eb7154a21517f590
@@ -579,7 +579,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 82ccf730b50c7e347865e1db6a599be1
@@ -593,7 +593,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 88
+      y: 312
       width: 8
       height: 8
     spriteID: 3ca92b42a2fc20d48835b81c4e524a9e
@@ -607,7 +607,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 1e2acdf4d77b3ec4aa5081ff83add0c9
@@ -621,7 +621,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 560a14ba54706104f87c8ac9712547ec
@@ -635,7 +635,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: b5a87f978a969074a8b438f5338a9d75
@@ -649,7 +649,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 805bb9f0be2e49948a9bd2b867542c5d
@@ -663,7 +663,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 61c0449e7383aa64bb976d163f973c5c
@@ -677,7 +677,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 11fcc04e3b4d9f84db12585435f85253
@@ -691,7 +691,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 172d531903acfb640b9a0aa85e750d6d
@@ -705,7 +705,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 7733ce961958e4a42bacfa932dfdb531
@@ -719,7 +719,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: d253e076322ee1f4680bd19893440250
@@ -733,7 +733,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 73a4af1f8a777eb40a3b720696751b07
@@ -747,7 +747,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: a63cbf9257830e541b109044447ad079
@@ -761,7 +761,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 214e3bb20a624704ea79898998f0b9ef
@@ -775,7 +775,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: 1cc501dbaf0a79b44a5a0957b5f55ca1
@@ -789,7 +789,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 80
+      y: 304
       width: 8
       height: 8
     spriteID: fbc3c481c135a1f4ab0c55375a97cfa3
@@ -803,7 +803,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: f01d0b2cfb2591d488cd5c7fea9c256a
@@ -817,7 +817,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: d72731f887d3a254f8a974c0bec95ea4
@@ -831,7 +831,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: ffc9314371b78f2449de8a97d8ddf981
@@ -845,7 +845,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: dabbb3ba61e2f2e49b0da06597d5f899
@@ -859,7 +859,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: 81b7c62d951d9774b83ae47e2350a8c0
@@ -873,7 +873,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: aae81f496e1adbd4d95c69dcb19f364c
@@ -887,7 +887,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: a074e605802e9964cbcde6e615c8ef64
@@ -901,7 +901,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: 623736d4742595a4c839c87f06ce75ac
@@ -915,7 +915,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: efd33e94af8a66047814c6a874aa6a82
@@ -929,7 +929,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: 362de04684862de4a8d5c550b79fa2c0
@@ -943,7 +943,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: fe8cb7899bdcfd943b277bbca3e7e82e
@@ -957,7 +957,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: 52d7018ce78969d49992c79271203adc
@@ -971,7 +971,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: e921c5a747705a449b8de7ea9ce692a6
@@ -985,7 +985,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 72
+      y: 296
       width: 8
       height: 8
     spriteID: ed5a7d3d5ebde3a45a3a85643f45666b
@@ -999,7 +999,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: aabc2e56c1e00ad488744c428058da3a
@@ -1013,7 +1013,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 3178dec9ddf31f84591e6aa356fd52fb
@@ -1027,7 +1027,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 66caa621ede980040bdea208f90f428c
@@ -1041,7 +1041,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: a53d57f6fff687b42b14cac842cf0f07
@@ -1055,7 +1055,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 171b76814d4d7894a9d6849a820f928b
@@ -1069,7 +1069,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 5450eb9dae557a94480de2a3561645b2
@@ -1083,7 +1083,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 02e4a8c618eaa2444b8b77a766199baf
@@ -1097,7 +1097,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 83eb9109404fa674a836ede81a574cd7
@@ -1111,7 +1111,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 6f8044e43d9a53c4583efc95b561ff05
@@ -1125,7 +1125,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: daf8c796844d4844b8596c603c095855
@@ -1139,7 +1139,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 2b8a3fc21339b384199b61723e1659f2
@@ -1153,7 +1153,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 36a0eb8d70b19af4fa52bc2a530e8ada
@@ -1167,7 +1167,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: 950ae239c2af25744a8551182dbacd6b
@@ -1181,7 +1181,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 64
+      y: 288
       width: 8
       height: 8
     spriteID: a86f75548b70f0f4a9634945bb0a55e4
@@ -1195,7 +1195,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 0e89020a59f122442b42972aefd2e33d
@@ -1209,7 +1209,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 678bf3434f5b2ac49bb7b55e53075c2c
@@ -1223,7 +1223,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 0bab27f7656689849acc9e3187a9f705
@@ -1237,7 +1237,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 0fbbe7ee38d5e974ab2a4b56309e8e7f
@@ -1251,7 +1251,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 35db718e2c3cc6d4eb13666e38b218cf
@@ -1265,7 +1265,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 909baa120b9e3de468eb39a0f467f204
@@ -1279,7 +1279,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 302028597951c9b46948315861de8c76
@@ -1293,7 +1293,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 96009df4d65a27643b7e38c7310469dd
@@ -1307,7 +1307,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 55625bd852a11f3438224bbe1164238c
@@ -1321,7 +1321,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 15ddc759c79a18e4285beb4040a353c5
@@ -1335,7 +1335,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: a3e13c16636c8d04da438f6fec9e7912
@@ -1349,7 +1349,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 95d4a61d730e7b148a3a86483e9e0c26
@@ -1363,7 +1363,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 686fe77a7fcf63c47b115e447daeb7fc
@@ -1377,7 +1377,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 56
+      y: 280
       width: 8
       height: 8
     spriteID: 205fd2821ac03b34f943c29c232a5cdb
@@ -1391,7 +1391,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 95294bbba4ed8e3449c72fd8a6b67979
@@ -1405,7 +1405,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: cc7a7601e372b9c47beeacebb1f3eeb5
@@ -1419,7 +1419,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 312f8b23c22a0f944b47540fd3205f29
@@ -1433,7 +1433,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 8fd1153a35351c9438d4b4f73b607cdd
@@ -1447,7 +1447,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 9119c5aca2be27f4bbc18ef582c21a82
@@ -1461,7 +1461,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 9702a665fa203a145b284a37e895fde6
@@ -1475,7 +1475,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: c70e18e049195864a97bc80c47ae540b
@@ -1489,7 +1489,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 0181041953ea0df48aa02a206de4ac57
@@ -1503,7 +1503,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 7c851cd02b7964448902ddbb742f034f
@@ -1517,7 +1517,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 708eab216952c1d4f9f2873436cc5fc7
@@ -1531,7 +1531,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 9b6b600be7651e6489f377e6e13b7c04
@@ -1545,7 +1545,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 047a7e5adb6983b4999acdfcff7f0bdd
@@ -1559,7 +1559,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: 6aa58493f6a304e4d845a1842af866b6
@@ -1573,7 +1573,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 48
+      y: 272
       width: 8
       height: 8
     spriteID: f1067032f0fcab342a7546a579754c89
@@ -1587,7 +1587,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 9ccfacc4168710c46b69479db5da527b
@@ -1601,7 +1601,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: a9fd337b7d0f2ba409c476794d7a957a
@@ -1615,7 +1615,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 794113509db01d24b8af73a184feebe0
@@ -1629,7 +1629,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: bf9a69ed77966954186427efb4b3482a
@@ -1643,7 +1643,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 81cc6739536af944fa364c4d97e9db6d
@@ -1657,7 +1657,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 9336a57ae60d51d4eb6738c1cad4cd81
@@ -1671,7 +1671,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 09eca2a4f9014bb46a8935545f0eb3ab
@@ -1685,7 +1685,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: f5e3c61bf4f83e14b872dd18ab0eacb7
@@ -1699,7 +1699,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 85d0b11c0a4dd7948bcd91f5fc5834de
@@ -1713,7 +1713,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 7334213ac52e88e4c8e0bf522b5548ba
@@ -1727,7 +1727,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: b87aec151a46ecc48859b81234f7baae
@@ -1741,7 +1741,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: b426557ad3fcced40bbdce6faa59aa36
@@ -1755,7 +1755,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 69db22c0e556e9641846d86ab12a9a80
@@ -1769,7 +1769,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 40
+      y: 264
       width: 8
       height: 8
     spriteID: 868e16d890201b242bd30a2eb9e11c57
@@ -1783,7 +1783,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 7a9fea52b4a97e64a9086bf473ce8b18
@@ -1797,7 +1797,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 255f6c977f36beb43b4fbc567f836bf8
@@ -1811,7 +1811,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: ad4e1126a46ce0e4eace3fbb233653b3
@@ -1825,7 +1825,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: e7559698d31702042b2b68144e7b0ff7
@@ -1839,7 +1839,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 2c3978054bd9c0945adfd60a617189de
@@ -1853,7 +1853,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 100864970e47755428af1d8e9c492198
@@ -1867,7 +1867,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 4f9e643e9b626b349bfb96c7a08152ee
@@ -1881,7 +1881,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: ae7d6068c40d5b64bb74fee894751507
@@ -1895,7 +1895,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: ad4a3de3ecd50ad40a5262997aa1bf61
@@ -1909,7 +1909,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 5489e535dba7add46a0ffca7e1dd66da
@@ -1923,7 +1923,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: aaab2b390881079478ee33d6ed278524
@@ -1937,7 +1937,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: a88f8697322ba274a80c60e3b74851f2
@@ -1951,7 +1951,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: b310a4f914ced314dae9144d8254e576
@@ -1965,7 +1965,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 32
+      y: 256
       width: 8
       height: 8
     spriteID: 2d45f1116b8afdc459c0e26028ddc468
@@ -1979,7 +1979,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 76219b18387ac024a99904b88532e964
@@ -1993,7 +1993,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: bb2b4fdc7fb84ce4d8b723b74163713f
@@ -2007,7 +2007,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: e38ee7b6e77610343803793b05f733e3
@@ -2021,7 +2021,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 6675dad9a8512804aa75492d21275146
@@ -2035,7 +2035,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 7dddf38988bd37e4ea48b4987f4bf92a
@@ -2049,7 +2049,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: e0cbe73f0f651ad4cbfee8c7149ec6f8
@@ -2063,7 +2063,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: fbfd548b6ecf3ae4e8fc9692fcc206b2
@@ -2077,7 +2077,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 915001fa555453a4a923a15fb8642674
@@ -2091,7 +2091,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 06b4fd72983d8ab41b3fdfe76883ec11
@@ -2105,7 +2105,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 734b040ea60bf44429b5b33c51065c77
@@ -2119,7 +2119,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: b05e58d72a542da45bf21c62fb8c7527
@@ -2133,7 +2133,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: c7efd1c0b7c12aa47877962980615e77
@@ -2147,7 +2147,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 844e858004698ed45a0430717a9e2337
@@ -2161,7 +2161,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 24
+      y: 248
       width: 8
       height: 8
     spriteID: 41e33bd88ece96841b07501da4ac410f
@@ -2175,7 +2175,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 48bfc7341b0b0094db99b4b6cdd4de2d
@@ -2189,7 +2189,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 1303989e524d49f4dae3e49f0149cec5
@@ -2203,7 +2203,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: eb3806281597976459eb51fb28b1a254
@@ -2217,7 +2217,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 0eb3609aa551b63469379dc7595ab84f
@@ -2231,7 +2231,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 9395d5ff579bb7141b4a3da8e863609e
@@ -2245,7 +2245,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 9688f4d6a45984347876f31c43921285
@@ -2259,7 +2259,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: b9200f9714869544f974ebdd41cb1044
@@ -2273,7 +2273,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 2cfce91d5d65cc84facc65703c9697df
@@ -2287,7 +2287,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 57facdd32c9a2714b913b26de8ab7372
@@ -2301,7 +2301,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: e18660ede73884b4e8b6fff95033fae0
@@ -2315,7 +2315,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 53abd206a144b7643ac5357f302bdf9d
@@ -2329,7 +2329,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 8af7865b9e7bf3d46a4eea9b98880264
@@ -2343,7 +2343,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 7307b009842c4374d83a2c971b21fd2e
@@ -2357,7 +2357,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 16
+      y: 240
       width: 8
       height: 8
     spriteID: 3dbae72b5a0b9434bba5234d792bc2c2
@@ -2371,7 +2371,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 15fc65c8647e1884c9c1876ef73b14cd
@@ -2385,7 +2385,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 08c59209c7f1e9f4e869a23f1e2ea29c
@@ -2399,7 +2399,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 66ce677a0fd97414496e7b5fa6280447
@@ -2413,7 +2413,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 6891f9e896937774b9121c7a9bac2083
@@ -2427,7 +2427,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 2e3a48472e2a86541bbea8ee8cc4b846
@@ -2441,7 +2441,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 9b782f1617f67ce4bbac1dd2c9379f72
@@ -2455,7 +2455,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 60c1ec35a01ac3d4da9f53bf98393ba3
@@ -2469,7 +2469,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 39edda21cbbfeba4d892045a69a59e34
@@ -2483,7 +2483,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 52686c00cd07924498e95e2572fc45d9
@@ -2497,7 +2497,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 0eb7f58451aae014ba5ef8a180efe919
@@ -2511,7 +2511,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 877877d0a6070cc4a8ca950e25d644cd
@@ -2525,7 +2525,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 77100f0c4a19fcb4ba683ec735d8afd2
@@ -2539,7 +2539,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: 98a32edadf655074099afba460df5d06
@@ -2553,7 +2553,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 8
+      y: 232
       width: 8
       height: 8
     spriteID: f4538c22b8503054ea29f1f759b93e62
@@ -2567,7 +2567,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 0
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 2ee7510fa19c45646ae1d58465150789
@@ -2581,7 +2581,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 8
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 4e4bf954a99b67649a0730a8160b221f
@@ -2595,7 +2595,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 16
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 2c911c8449ffab946bcdc9b41d581cbf
@@ -2609,7 +2609,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 24
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: c57e55d720a5ac04bb5647d643c9a29c
@@ -2623,7 +2623,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 32
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 3ea10bd2a3409e34391e913e8b9a42a5
@@ -2637,7 +2637,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 40
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: c7175ecc7d93cc249b4deb2cecc1f8f9
@@ -2651,7 +2651,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 48
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 61908dbbb53cbff4391aefe8e0973ad1
@@ -2665,7 +2665,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 56
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 0b909b2a2e1e5044191503bf03ffe872
@@ -2679,7 +2679,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 64
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 827a4564a653356429dbc1587134945f
@@ -2693,7 +2693,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 72
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: 14d75fb5c244d704b86f25d11e3aedb1
@@ -2707,7 +2707,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 80
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: a84a42d432bc3264bb5a9f63d0557ad9
@@ -2721,7 +2721,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 88
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: d47f2dbc5a96acd44beb0ca29d9110bf
@@ -2735,7 +2735,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 96
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: fa212e481234cea40b670a9df6a74c6f
@@ -2749,10 +2749,5498 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 104
-      y: 0
+      y: 224
       width: 8
       height: 8
     spriteID: b07203c39b3308e44893db0437c10fc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 598f878b2098a5a468e8ae7d70cf737a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 216
+      width: 8
+      height: 8
+    spriteID: a407c750eb27df741b485e671ee8dc0b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 10b0ed0020534e84db8818663c88ac1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 3e2841abe7d08d6439c2eaf0cc9219d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 389eedc75c525de4381c488d7c412ec3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 216
+      width: 8
+      height: 8
+    spriteID: f435ef20f37fdaf4c80d6356f15667f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 867a82bfdf375ef4d9f798c8f8e55369
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 01b66d4999a790543a563045a22f342c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 767a1d2b4b0b7ab48b3eeb4642c1599c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 5c573658441e4604583528c2cd79749a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 19c278550bde5c843b689cebe50e13d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 41e3128db170dd04780c9c833946e35c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 216
+      width: 8
+      height: 8
+    spriteID: 5d466db33fdece4479bd8819ce8bdd47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 216
+      width: 8
+      height: 8
+    spriteID: fa1d4ba332c27ab44ae758afcb74e5ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 7ee2cf52d2336f042a42d6a3b5625835
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 4773797241cfb484896336e0b5a434fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 4576c8713b061c24bad8e55e6f882ab2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 208
+      width: 8
+      height: 8
+    spriteID: b906c41493b274a42934826a052feaaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 05afa7421dfaeef428a30d53f2b25e3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 5425598fa3f5acf4ab13ea272cfdc951
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 8
+      height: 8
+    spriteID: cd623f3f8007b3a4ca9638c0feb3ccb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 4786ebcc058cb8645970ce93a93cee78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 78ca1d801bbea1d4ea7c3911d23b5e34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 9b342e99c39e5ab448fc0558cc1b4c78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 8
+      height: 8
+    spriteID: c3411642d914d624c89753be9d7adba6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 7c93fd958d0c6654f81624e0e8a7d97d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 8
+      height: 8
+    spriteID: ff0d568d98ad35847880e1bf1509b538
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 208
+      width: 8
+      height: 8
+    spriteID: 5afa1fbbb10816f44a45d5e0a317f773
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 3896b252ffb109542bb991f5bef42c68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 200
+      width: 8
+      height: 8
+    spriteID: d4210c88e8497ac409255f299553e0c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 200
+      width: 8
+      height: 8
+    spriteID: ff669ff3f428e674d9c20ae3f4c9c072
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 837eeb43558438b49b8c954f7821a472
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 9f41d7d6cdd0dce44870df7693ebbf57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 87078ab493a45bc43a15cd1ed1955666
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 9f40959da4fca6549aaa90206ed3a830
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 2d0b333054da56c4ea8bedae89f13981
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 0c314cef63fb92145b8ba131133c404f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 200
+      width: 8
+      height: 8
+    spriteID: ad905fb5061eb3442ad440d9f2db8783
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 9ef81a645396e084cb75a3cf130852cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 2e2728a7ea7dc67459180735d45223a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 200
+      width: 8
+      height: 8
+    spriteID: 96159c9ea0558c1459a5d3db073affb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 200
+      width: 8
+      height: 8
+    spriteID: e0d47ed8198580443a96cabdf8da2ec5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 5d5805aa14ac274449c76e373ae09f7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 192
+      width: 8
+      height: 8
+    spriteID: d6c45d352270d374ba36a15a1ed0c11b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 3bd9e11d512088940b2cf4cf77a8c9c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 254d9716abb15fa42bf51fc0b791dec9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 89b2309139b085749b5fc7e20288f8f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 192
+      width: 8
+      height: 8
+    spriteID: b7d1f407c628fe64ca97498049cfc328
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 734c1c0f5f87dd14e9a4a9629b90d6de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 76cd7d811f6284641b989b4e4d58a81c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 8
+      height: 8
+    spriteID: d47cdf6afc62ac1478537946e4d37787
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 8b5c68ed4a68f83419feb6db523f1220
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 8
+      height: 8
+    spriteID: cd79dc87254e4f44ebf37211fada39a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 192
+      width: 8
+      height: 8
+    spriteID: ef54eb425ff9e2049b9c69c3b06ce7b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 8
+      height: 8
+    spriteID: 4bdfa10155fdb144eabf35f5492dabbd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 192
+      width: 8
+      height: 8
+    spriteID: de459def47d4dc9468d8aea895a30fd1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 184
+      width: 8
+      height: 8
+    spriteID: e67008753eae699419812c04f86b1f8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 184
+      width: 8
+      height: 8
+    spriteID: e7effd56c90fc2c4d98fbaab757c0833
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 35af1a5f56b3cd840aaf11c51f62de92
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 184
+      width: 8
+      height: 8
+    spriteID: fc66110b8d2ee414f916b62eb2c88e24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 184
+      width: 8
+      height: 8
+    spriteID: ab67e416e791abd499a9182f27be3345
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 615c534001b480c4b90fb5cfe9eb2586
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 09f726ffaaed82844b754c4fe1afad0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 8584b6c97921f94489c8864cef8b5c2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 2ca74b6728c352746a674390d6ef9764
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 0a7f87dcbbb1812438f60a79bb6cd482
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 184
+      width: 8
+      height: 8
+    spriteID: fb01f2ec62599bf47986e329447ad82b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 024f494ef710758479d4412da70e04d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 418d177d3a793d14f934c0781ef1f666
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 184
+      width: 8
+      height: 8
+    spriteID: 24dee74a9dd708f488de1c9b89cbf82c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 8
+      height: 8
+    spriteID: f5cafe0d6752aed49946f1a57d6e1a13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 536fdf2dcf2e0af4087bdccc2fabbf2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 3a31555813c2bc448b3c7c0628e4cb8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 74ad338522c3e0049bd05594f8c579ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 0e25e319a43e82d4d9dea3295bfd0184
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 176
+      width: 8
+      height: 8
+    spriteID: fafdfb0618c771445a57b8c572914e4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 92720cc1b1c176940996854428ff74e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 159352d2291441d4c97463ccda0ca8ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 8
+      height: 8
+    spriteID: f9e461ea19d73014480e55bb3e7ced85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 0a654ba2e525c9348a75a7e64f1a752f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 8
+      height: 8
+    spriteID: e7d6ae04ad029e044ad86d890a94e8de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 3c97862b643f4174bb0fbd1fbbbfa192
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 2fbe2ad472f379948af2161a8696afce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 176
+      width: 8
+      height: 8
+    spriteID: 94fbd4d29a3dc7c43b95f1bb360de6c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 3916c95bfe750f5418be1140ed99f039
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 70f5de8d171d2234bb122fd76b1e1c17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 5b3d78f075349ca49b2e17632dd2c3d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 35d7f00fe59b14e428ad1e9b72433d88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 5fededcbe55731b46af040e4ea990d94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 2066be6a336837c4090be6e951967581
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 168
+      width: 8
+      height: 8
+    spriteID: e963e4b7ed4de544b80c2ee61c6e2140
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 11876fa18cea20445a271095a38ebdc8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 168
+      width: 8
+      height: 8
+    spriteID: f8d36c2fc5292b04a8389da363f7df0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 168
+      width: 8
+      height: 8
+    spriteID: cabc4e6bd0153f34f8527d0f23a40cae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 05413bb96eb2241489508993313a2b48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 23bdcf96b2e041a49bb1685675e335af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 168
+      width: 8
+      height: 8
+    spriteID: ddde3713dd249a2459529266b44346e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 168
+      width: 8
+      height: 8
+    spriteID: 3b7df02dd8009b1428290234ac9ea377
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 8
+      height: 8
+    spriteID: fcb14085ea2d1444d8a0b6bea273362a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 160
+      width: 8
+      height: 8
+    spriteID: a3456fbf6f5e8c7439964f01b834f3b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 0f1b126f52a4f4a49bba3a83146272db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 0463e1930d9affd4f8431d1204b3d9da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 8
+      height: 8
+    spriteID: f8263ac4f725f6f49bc4e2ddd4453bc0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 160
+      width: 8
+      height: 8
+    spriteID: e14ed9093deabde49b57f1dd44bfe965
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 8
+      height: 8
+    spriteID: ce574368bc648994584af12df187613a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 2578a77fd698b8d4c81c517ff3949de3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 86982ab07d9dce9418650dddc11f9620
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 03251a7739be70a478a89fa2d1b0a4ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 8
+      height: 8
+    spriteID: 4d83cdb3729eabf4885f9bf0aa45a429
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 160
+      width: 8
+      height: 8
+    spriteID: c23b3d392c6b2654c85aa6045116ea85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 8
+      height: 8
+    spriteID: d85deddbcb4c90549b1a6495c409c94d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 160
+      width: 8
+      height: 8
+    spriteID: e03ae48c6b5122a42a6069c55b22147a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 308b208a66ec1c142b9ea09d09ad4583
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 152
+      width: 8
+      height: 8
+    spriteID: fc730e8c561b052448621144ede5b16c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 638d0badb5c4ff143bc8b935119463f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 248c9dc2ce0c4e74eb3f0a68ad8deedd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 152
+      width: 8
+      height: 8
+    spriteID: dd06110dd883dc943b5d1443af2629e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 34332bd130f93ad46b2e0d78b54b8722
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 152
+      width: 8
+      height: 8
+    spriteID: e102e96635f8b904c8615dd3f09df861
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 152
+      width: 8
+      height: 8
+    spriteID: f0b7c899632acaf4f996f1385ce5d0ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 152
+      width: 8
+      height: 8
+    spriteID: f4f02f453c4bf6849b89a02d2b06f503
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 152
+      width: 8
+      height: 8
+    spriteID: d5e4f86c76ec1d642a463617392f8a76
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 81c69b3cf55d10242b54c004b5c10cd8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 843fa2f091b42e6498b16ce43e857c1f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 152
+      width: 8
+      height: 8
+    spriteID: e8dbe539302dcc445ab1f2222ac12366
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 152
+      width: 8
+      height: 8
+    spriteID: 05655a060891f774abdd058ef1379bb8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 166d2805194b6fc40ad72f6f02391ddc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 7a985cb7be5f96b4b919d7e74d9ea0d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 8
+      height: 8
+    spriteID: ff7f36aae6ebae54fbe6a4ca174b3cb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 92848bfd5ff1b694aadb6fa10bff9fd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 8
+      height: 8
+    spriteID: bf107dc82d4fa40439064de1960aba2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 144
+      width: 8
+      height: 8
+    spriteID: e3c67b89fd3d8604f81569adc6102ca0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 770afcfe46dcbe046834e89bbda4b5da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 144
+      width: 8
+      height: 8
+    spriteID: b8c26ced8bf10b74db840bcbc7ebc788
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 8
+      height: 8
+    spriteID: b872d2df19078d842ab86bdb4c6b5687
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 144
+      width: 8
+      height: 8
+    spriteID: ee231044adba3064685a71243ea91941
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 6484d9e64da29974a815e0fcf9e391e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 22500d53ca1b9e9489500b1b6806dfe9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 8
+      height: 8
+    spriteID: d514f6c7d0c36c44a98e86a60b3f2b65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 144
+      width: 8
+      height: 8
+    spriteID: 0c6cf36aac64a824db0ab9abb1bdd4b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_336
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 7e1fbd6c3098ab24086eb991469a5a7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_337
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 136
+      width: 8
+      height: 8
+    spriteID: f0255a977025e784db7b86c4ba71c273
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_338
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 23bb155b6fc8e1a44ad977d9094df6fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_339
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 136
+      width: 8
+      height: 8
+    spriteID: fad3b56b398d3fe40b2bf8ad1dfee2d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_340
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 42ecfe409945c004eba7389413d6f0e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_341
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 3d12012aad73b9e408bbfbe51e11b09e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_342
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 2545737f79c2a6d45988a562e037d194
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_343
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 80864dded86145949af024969fc198cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_344
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 84df27245a30022438233896861fea5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_345
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 136
+      width: 8
+      height: 8
+    spriteID: f6be53dbc108b8e4faf0c7a22a81ecf3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_346
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 136
+      width: 8
+      height: 8
+    spriteID: 9ba86415793ba3544a6d57cf4c804e2a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_347
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 136
+      width: 8
+      height: 8
+    spriteID: cd45a738365e61c40ba4cb5b3c47471f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_348
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 136
+      width: 8
+      height: 8
+    spriteID: fc2fab6d9ac37e5428cf6510f18ef1f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_349
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 136
+      width: 8
+      height: 8
+    spriteID: b9bbd0a55293f98468ee1d4f6f011850
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_350
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 7f059d2d2a52d1d409d7990bd1ce6b95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_351
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 28e0663efd0d9f144a22a8cc1627307e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_352
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 9843b36e0e871a44cb18acad50e9247d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_353
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 3846a51a55b811241916a5b723b62cf7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_354
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 8
+      height: 8
+    spriteID: ab6f7e3d1443f06419746f6bbc1bd340
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_355
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 9d20b78e1b668fc4ea4cfd94afe902a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_356
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 6323b2748ee61b24e915a57da5736300
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_357
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 128
+      width: 8
+      height: 8
+    spriteID: b16f0dbb58abc844da92e0d0e4d82319
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_358
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 8
+      height: 8
+    spriteID: ec0bd2bc33840a4458ae913395e6a2cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_359
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 128
+      width: 8
+      height: 8
+    spriteID: ecfdc15f9dd10fc4fb174106406b173b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_360
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 8
+      height: 8
+    spriteID: f080bb756e5a2184e942511d95d2e0e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_361
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 1d44704c00b880a45becc9481b20ac37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_362
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 3210a594cd3874149bf4bc55f40dbddc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_363
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 128
+      width: 8
+      height: 8
+    spriteID: 8ffe6e9d05f969443bcb20ed29c24d9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_364
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 120
+      width: 8
+      height: 8
+    spriteID: f88c889a54229954792b0e7ca8139b43
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_365
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 8cd8f2a02a60d07468ba8d0cfc462a99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_366
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 2568adb353b7bfa47a721023231ef20b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_367
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 120
+      width: 8
+      height: 8
+    spriteID: b05457e2b8d084341ac352e1ca474db4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_368
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 120
+      width: 8
+      height: 8
+    spriteID: eb39f38ad3c7c4045a484b83f374ae22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_369
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 2dab02d747079634e9e0ec95e2b662d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_370
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 980c9d2e1508ce04b9682a873d932acc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_371
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 120
+      width: 8
+      height: 8
+    spriteID: a9e2d56cd885fcb49b0be55c5e7176fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_372
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 120
+      width: 8
+      height: 8
+    spriteID: cb4c30fc415b605418db15689d1f7caf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_373
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 1a1be75668c124f428b24a34483a4ca9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_374
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 120
+      width: 8
+      height: 8
+    spriteID: c26275802b107c6478529ebc460c737f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_375
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 120
+      width: 8
+      height: 8
+    spriteID: ca08a28558257ac44b4e16a6f9fefe23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_376
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 1ec7dde121e74c948aa5fcb375aadd93
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_377
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 120
+      width: 8
+      height: 8
+    spriteID: 79d3d2f5c0952a54ab658655df2d37b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_378
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 23e6064cee7b3e94ba1264716ea72888
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_379
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 171763135d316de4e833b203795c3b79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_380
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 9893c07b05db20843b8318baa306ffe6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_381
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 7cf40f365d992b744a75042a5eccf221
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_382
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 8
+      height: 8
+    spriteID: bc7efe4af128ba0449b5f1250828a887
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_383
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 02fc04f20e0574a46bc1c3ee366b4a38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_384
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 8
+      height: 8
+    spriteID: b362946774f2d3f489469445d336c671
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_385
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 1a4dd99e7e6f5a9459a123c89a3ae25b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_386
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 6e6bba1e1e37d514b960cb2e2555eac9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_387
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 4ad7255af0c7b09489115ba094b51f41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_388
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 8
+      height: 8
+    spriteID: ab229af68de9ec5419cee31f217a7a3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_389
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 63fb0189243d66b47b4975d4355e125e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_390
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 83f2d4f7ad290fc40b957ca1aa474853
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_391
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 112
+      width: 8
+      height: 8
+    spriteID: 54402baafd8c2114898a69bed611b37a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_392
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 55de93a33a34096448977c3b2b90797e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_393
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 27bda7abdaf0fb34bacf8b09053fb38e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_394
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 104
+      width: 8
+      height: 8
+    spriteID: cf668e467b302bc46816d79942865d2a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_395
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 61ceb223989bcd04784615d842ef5909
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_396
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 54e6f89763824c24db38831bf94078ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_397
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 104
+      width: 8
+      height: 8
+    spriteID: a6c514019de4df741975518cdcfbf2f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_398
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 9d2b29759edefd9488a39484b8ca52a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_399
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 104
+      width: 8
+      height: 8
+    spriteID: c3d99496d97af2f4c9db53f9451767cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_400
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 104
+      width: 8
+      height: 8
+    spriteID: d68ad67386fa01c45a96dec7d73c9413
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_401
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 0cb111f840ded294ba4be7b636e30431
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_402
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 798ca2732d5ee0749932f2f322854a3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_403
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 1bdb37844dcd0d74d852422690a4b869
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_404
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 854c2033c224fe448b2f6421dc0778a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_405
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 104
+      width: 8
+      height: 8
+    spriteID: 7122c5ca6cac5c344a7ba737ad1ff743
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_406
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 8
+      height: 8
+    spriteID: c6f8d04e32ed6c14db6e350e5ecdada3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_407
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 96
+      width: 8
+      height: 8
+    spriteID: fe89efe4fa4740d46abd342d6c6d1c6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_408
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 6ae80830575404847937586a129a2115
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_409
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 331cabc6d5d175f4e8f8d2f65dcff664
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_410
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 0d9cd04536cfe3741b664c1bd998efd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_411
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 96
+      width: 8
+      height: 8
+    spriteID: e28a85c83b12efb459c8449638f356d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_412
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 7d63403bdb9a354479890e33b2d422c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_413
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 930d36eeadce1ac4fb297acaf26d7d2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_414
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 70851c1f1c293b246a72aece39e96dca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_415
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 96
+      width: 8
+      height: 8
+    spriteID: e027cc69fc35afe4da11d91792111c85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_416
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 81572f9266656ee4d9c70ac2c22d4dad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_417
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 3ed7e27b8ce07ac4fae965c39e1f00c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_418
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 97bf8bba740c8b249ada006d9dbaa766
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_419
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 96
+      width: 8
+      height: 8
+    spriteID: 0c971fd0fd8a37a42ac810f673613dc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_420
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 6f8335ba20357d84f910d2fb6d3bfa58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_421
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 71bbfb8c62e6fc041ac4e578178fdfe0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_422
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 88
+      width: 8
+      height: 8
+    spriteID: fe2f32f85baaea7458891a6934b3bee7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_423
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 88
+      width: 8
+      height: 8
+    spriteID: b5483f663d40c6e4799f48f36f90d5be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_424
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 88
+      width: 8
+      height: 8
+    spriteID: cd8f28199773b71418b7471e37a89d3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_425
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 404736c19445480489aa92d46e90bfff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_426
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 38bf235cfb154f247b8cc471e9b3799d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_427
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 91a5d55dd08dd6c4992990404550f2b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_428
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 1f458b9a4514c1d41b31d32346dac09a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_429
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 88
+      width: 8
+      height: 8
+    spriteID: c233eb53598b76049a8351fa71e190be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_430
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 996b536db746aff44b5758715e4c00d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_431
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 607f02f3312cd3d49b7c9e368aef4f88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_432
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 88
+      width: 8
+      height: 8
+    spriteID: 06c1add0d4e4da443914008b45d9c6e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_433
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 88
+      width: 8
+      height: 8
+    spriteID: c6ef3e803c86edc47aa6ec001c616b65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_434
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 8
+      height: 8
+    spriteID: ab1c31de30e125f4c84471f01db083a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_435
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 80
+      width: 8
+      height: 8
+    spriteID: e087ddcb82b3c4f498773fe6d0c678f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_436
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 985c76cc0a4856f46a8c888634cc86b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_437
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 80
+      width: 8
+      height: 8
+    spriteID: a92003aa8ab3e3a4abf71a4e2242e192
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_438
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 8
+      height: 8
+    spriteID: cb786255c738ec34aa18c7a14809a1e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_439
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 80
+      width: 8
+      height: 8
+    spriteID: a91a3fab302257244876e61b24664d10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_440
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 7a1511b17099a3e43b51e5da467cdbef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_441
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 80
+      width: 8
+      height: 8
+    spriteID: aa94bfc005b34a249ae07ae1aaa0c371
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_442
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 55e5105e9497f954d8d2698b0eeb7a71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_443
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 1ea5795f2d1c39949953269b85ee3386
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_444
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 02252812b3986bb4da2704046691738d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_445
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 71817aa59f1cf224d8494fc5bc7e22a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_446
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 8
+      height: 8
+    spriteID: b8ce462a8ea028545b185c342b3fc833
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_447
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 80
+      width: 8
+      height: 8
+    spriteID: 6b48e664e317cec4198630b3ff794bfa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_448
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 72
+      width: 8
+      height: 8
+    spriteID: f14092254ed9b6b40afab5234ef3056f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_449
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 56e75377bf9e95f40b4cc3deb872e433
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_450
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 84547f8fbdbfeac42afc204f8ff5e978
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_451
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 55eeb3852649def46b1d550f0026047f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_452
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 8df644d9ff246224a8555cbc0bac4550
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_453
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 4903bde7d304c414a92321accad99031
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_454
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 5054903083d05494793f7f13c73afc27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_455
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 275a322a28da080468cf34f602922691
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_456
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 9d4109998b7670e419d549315ab903ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_457
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 4826ce87a8053264882adb110d3d3fee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_458
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 72
+      width: 8
+      height: 8
+    spriteID: cc6010e5d2b73894fbe2e39755d96e24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_459
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 72
+      width: 8
+      height: 8
+    spriteID: b002f0d41fb7aa34d87fb184c6d0b100
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_460
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 2dc801226d86ba84793aad134fe551d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_461
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 72
+      width: 8
+      height: 8
+    spriteID: 4a9e11bd053cc4f4bad4a57c5f0a6c21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_462
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 8
+      height: 8
+    spriteID: ba76f0fe9e8fe25489822ffa07fc4560
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_463
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 1ba9097757b984e4ab3a478a352064ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_464
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 13b229e015f3e3f4ca59d66ce36eec49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_465
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 955bbbb43025d9b43bef4dbbb1bd753e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_466
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 6e84e084a8add8048a01632b809ce6c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_467
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 64
+      width: 8
+      height: 8
+    spriteID: bc098bdf12defd84d94977c4ed002813
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_468
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 8
+      height: 8
+    spriteID: cea62aa4802c16f419b0a1fa9302c9fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_469
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 8517bd1bf20ec854fb47ecd310b2fe15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_470
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 8d358499e064e7c498c5513ef4bb8638
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_471
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 0632c2aebf95eab4b86dd7a016cf2a64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_472
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 8
+      height: 8
+    spriteID: f85232d2671ba884f8e825e7804223a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_473
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 64
+      width: 8
+      height: 8
+    spriteID: d870c2417ebc9d541857752b4851a2b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_474
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 43e87306b9273ee41a324dff9eea7390
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_475
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 64
+      width: 8
+      height: 8
+    spriteID: 9451dd6e45dfc8449bb5a9618f6fbd91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_476
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 964ed2c60b1b6524c879049abd95cd29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_477
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 981898b79837ee74189bb5c68b2af1fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_478
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 2fd91a963c7f5a04faeeeeab6163ae93
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_479
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 56
+      width: 8
+      height: 8
+    spriteID: e2fd75d6d04a5f84bba9ae63a196b72d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_480
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 56
+      width: 8
+      height: 8
+    spriteID: a8a3f687a0b3a29409b0de2b394a1494
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_481
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 8f95e31f0a18aa64684629bb1dfa250e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_482
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 33b0fd75fcfe2204ba8c6fee5decc903
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_483
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 38937cd2eaef9c449837d9d01b703461
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_484
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 56
+      width: 8
+      height: 8
+    spriteID: fefd549959ce1d94e8656c29745c7083
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_485
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 163791631faf0744681535d6765fd9e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_486
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 56
+      width: 8
+      height: 8
+    spriteID: a03dae37921055642aa907aacff7b966
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_487
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 56
+      width: 8
+      height: 8
+    spriteID: eea36bf14772d884984be39d84508331
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_488
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 56
+      width: 8
+      height: 8
+    spriteID: 77c199f5e0708904581e638efdb9af69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_489
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 56
+      width: 8
+      height: 8
+    spriteID: d78071c9fc2fa354c89fcb6ca4fb11ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_490
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 3ac9003d11a85af4dbdd4818a7a2676c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_491
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 0dd6489e4fc0a514295e551f83fa7e66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_492
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 2e265292daeb76f48a3357ccd32afce6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_493
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 1d395a21db2af04418135371aa6402cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_494
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 9c71515955699a44dad6effd795b5d7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_495
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 4ea7692b97f0603418f9b231fcb26fe2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_496
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 8
+      height: 8
+    spriteID: ab68460fa3fd6034f8f759efb15c9234
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_497
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 38bf1cf4ea464824cb96d4b74563f962
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_498
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 1b81e4c9ed576894694766d817160702
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_499
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 91fbeb74b282c50419c0d1f45341251f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_500
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 003aa51a1f097f34299fcec890e17011
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_501
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 48
+      width: 8
+      height: 8
+    spriteID: cab1611f9049fc446918d594c74e8f5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_502
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 8
+      height: 8
+    spriteID: 1f3234761dff69c47969f4f15d4536e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_503
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 48
+      width: 8
+      height: 8
+    spriteID: ad49b04c708d01a4e8d79351d518d79a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_504
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 40
+      width: 8
+      height: 8
+    spriteID: cd626f8462d41c14eb56e7b23641adec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_505
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 82233e2907d10644c9f8d7f7bbd93c59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_506
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 02473f3e94596af46b2c0dc70b7a5e1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_507
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 40
+      width: 8
+      height: 8
+    spriteID: cc7f4d11c30cbe94eaf9e7ffce86bf87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_508
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 5a42ef68fd9c88547933cc89f890c3dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_509
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 0ba50676d4029944a8ce5d0a7c733508
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_510
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 3448079474b06e349a0f4b4f5e1f976e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_511
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 70da39a1aef3e58479540be0ec963fcc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_512
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 40
+      width: 8
+      height: 8
+    spriteID: a11bd2a041bf2c24f86d6d067f03c4e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_513
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 40
+      width: 8
+      height: 8
+    spriteID: d230d84751adcd147a38aac041389be9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_514
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 40
+      width: 8
+      height: 8
+    spriteID: a01ec619a1c20b64088f9aa69e6fe03a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_515
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 89efb04d6b08a204883326c5081a9dec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_516
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 655b2ff0701adea4d8996401b8211f5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_517
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 40
+      width: 8
+      height: 8
+    spriteID: 9b219193f8342d84c8c1f467b3f18d04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_518
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 38364a0c63023ff4998028388849fcf4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_519
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 51bad6a6208fae9448b51979a8b5ffac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_520
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 51058632820a78c40b6b3ef3c7ddc4c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_521
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 0d01257bf05667d40b4fb38dfd6cc0aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_522
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 8
+      height: 8
+    spriteID: b2d6159bde26a8b40a7ae6d253397611
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_523
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 32
+      width: 8
+      height: 8
+    spriteID: cbc37e4ba1e5b63478ec6c8fc80ddb18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_524
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 8
+      height: 8
+    spriteID: bf3121ac42892464a856a385eb9fe31a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_525
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 67fd9d59a6adcde4d8481bbaa5e762db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_526
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 82c931c179d83b746b39c5ddbf0260ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_527
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 43e3c28000e11fd45b614379182c83e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_528
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 8
+      height: 8
+    spriteID: 04ffa70c5b64bee428ba5746b537a50c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_529
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 32
+      width: 8
+      height: 8
+    spriteID: d4fff7882f4a0414dad84a0ce864ef51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_530
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 8
+      height: 8
+    spriteID: eac2dddc26b03984491d5ce1f170b4a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_531
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 32
+      width: 8
+      height: 8
+    spriteID: fd76258a087312b418eefb899020c21c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_532
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 24
+      width: 8
+      height: 8
+    spriteID: cce6d3f96e5b6f848ad5bed5e8c7bf17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_533
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 24
+      width: 8
+      height: 8
+    spriteID: b081e2c9828b25a49a320594d07875f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_534
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 24
+      width: 8
+      height: 8
+    spriteID: 92c8a255981e09246a3d09834a9dfc46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_535
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 24
+      width: 8
+      height: 8
+    spriteID: 1742272546d53bd43b4e531ef5d1052a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_536
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 24
+      width: 8
+      height: 8
+    spriteID: 21f2bc3933d8e844e95590e4c79336dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_537
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 24
+      width: 8
+      height: 8
+    spriteID: ba1ee81d789c9ae41bbdca01eadc90be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_538
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 24
+      width: 8
+      height: 8
+    spriteID: e6b9cc6320901684180cc7a192f3953c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_539
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 24
+      width: 8
+      height: 8
+    spriteID: fc12df7201e726a498a0efa2ea528859
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_540
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 24
+      width: 8
+      height: 8
+    spriteID: 518414116edccd64492613f730a124f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_541
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 24
+      width: 8
+      height: 8
+    spriteID: f45658f30a4a9704ca05b1edf71c8648
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_542
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 24
+      width: 8
+      height: 8
+    spriteID: c420573941e2f5c45a1123765175c1ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_543
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 24
+      width: 8
+      height: 8
+    spriteID: 402b4db14b7c14e48b96d85739514adb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_544
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 24
+      width: 8
+      height: 8
+    spriteID: ccd814716c7123c4890f76cfe8edfdb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_545
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 24
+      width: 8
+      height: 8
+    spriteID: c57dbfa0a3bf56c49b6ceab0a5cf29d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_546
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 8
+      height: 8
+    spriteID: ff82ec65e37983d419745835104772ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_547
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 16
+      width: 8
+      height: 8
+    spriteID: f29134cf7a602bb4eb3e402c5a3da372
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_548
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 8
+      height: 8
+    spriteID: 95d1209d86ca7844f9cb6e38e273cce7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_549
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 16
+      width: 8
+      height: 8
+    spriteID: b691862e05ec40a40857cfb170d26766
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_550
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 8
+      height: 8
+    spriteID: fe23f27a22967c14e8bb8212c29e3863
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_551
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 16
+      width: 8
+      height: 8
+    spriteID: def4bb461326c1e4a951b363d303d6de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_552
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 8
+      height: 8
+    spriteID: b30aeca772aeea04faae186a51a0b4d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_553
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 16
+      width: 8
+      height: 8
+    spriteID: 515fc9be46123cc41852afc1b845311e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_554
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 8
+      height: 8
+    spriteID: e002fa4ed794d1743b2357bdcd439f74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_555
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 16
+      width: 8
+      height: 8
+    spriteID: e406bce4466adc64fbd99aa89505bd48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_556
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 8
+      height: 8
+    spriteID: c02678fde3d3e6a4a9582191c83cad33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_557
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 16
+      width: 8
+      height: 8
+    spriteID: 3404b0fc555d5904e9fae4957562f0f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_558
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 8
+      height: 8
+    spriteID: a76868acfbd1d344db4babf2d3d562dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_559
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 16
+      width: 8
+      height: 8
+    spriteID: a114385d0ed65a24c9ee191674be8e0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_560
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 8
+      width: 8
+      height: 8
+    spriteID: babdd590cd3f14b4b8f01cee0db32780
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_561
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 7edb606ccecfa1448a324333cab518d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_562
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 2c89bf29c3600484783f36d2275a1b0b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_563
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 667e35432e7c1b843a9390daca626287
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_564
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 8
+      width: 8
+      height: 8
+    spriteID: f543f3f543b346642a918c8826d20350
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_565
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 8
+      width: 8
+      height: 8
+    spriteID: e725555b6d45f314fbf12ca9d1c99682
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_566
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 8
+      width: 8
+      height: 8
+    spriteID: ab775b8bab1c84f4c9e39f14aed12fc4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_567
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 1be023ab58339fa42af929a470bc7c38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_568
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 8
+      width: 8
+      height: 8
+    spriteID: ede3becda64eae84391974e0d8cbfb5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_569
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 1b4a9bbdb54bafa4a9baa39bf72c5a1f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_570
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 663c3f5e0e2b4364ab06e017682bacb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_571
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 0ced691ce82b7904d8a103e05ddddaa5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_572
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 733370af57b72d94484eedd6a378742b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_573
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 8
+      width: 8
+      height: 8
+    spriteID: 6e6532bfc409d8949939ba974cbbd6a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_574
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 2a0c70d5ff4c6fb4599225a8451d39fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_575
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 3bc39d5cd9dc7f64c82a7913020eef41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_576
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 5be39b679892f68439d7b82232881f9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_577
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 0
+      width: 8
+      height: 8
+    spriteID: aa0a0e0b52280164e88f99bfedfcf5d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_578
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 8
+      height: 8
+    spriteID: b10d1658829f09d4aa1b20948b2cbea8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_579
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 40
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 5146da2e337732849996c951349e6557
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_580
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 00ee64a33beb363439202cd70400c2bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_581
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 91a4020514b44b24483ddd6ce022a79c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_582
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 8
+      height: 8
+    spriteID: b9d40e66c07573a428fc8d2e874111cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_583
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 72
+      y: 0
+      width: 8
+      height: 8
+    spriteID: a8f2d1d06374e2549aef4bd462e6b87a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_584
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 64479cc3d56502c4ea67769e3cfa1bd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_585
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 2e5767d4091f2864dbf3fe4fae50cd59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_586
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 1e4b591cd35d2134681a3a7249826485
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Lizard_Wizard_Tiles_587
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 0
+      width: 8
+      height: 8
+    spriteID: 47e57237adb4ce347872f7ec47a4a3f8
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []

@@ -13,6 +13,7 @@ public class MainManager : MonoBehaviour
     public GameObject[] HardRooms;
     public List<GameObject> RoomList = new List<GameObject>();
     public int RoomsInDifficulty = 7;
+    public int EnemiesInRoom;
 
     private void Awake()
     {
@@ -54,9 +55,20 @@ public class MainManager : MonoBehaviour
 
     }
 
+    void Update()
+    {
+        
+        if (EnemiesInRoom == 0)
+        {
+            LoadNextRoom();
+        }
+
+    }
+
     public void LoadNextRoom()
     {
         RoomsCleared++;
+        EnemiesInRoom = 9999;
         SceneManager.LoadScene("Room");
 
     }

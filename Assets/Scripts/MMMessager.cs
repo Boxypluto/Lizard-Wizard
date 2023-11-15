@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class MMMessager : MonoBehaviour
 {
+    
+    private MainManager mainManager;
+
     void Start()
     {
-        
+        mainManager = MainManager.Instance;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void BroadcastEnemyDeath()
     {
-        
+        mainManager.EnemiesInRoom -= 1;
     }
 }

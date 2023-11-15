@@ -6,12 +6,14 @@ public class RoomHandler : MonoBehaviour
 {
 
     private MainManager mainManager;
+    public int EnemiesInRoom;
 
     void Start()
     {
         mainManager = MainManager.Instance;
         LoadCurrentRoom();
-        print(GameObject.FindGameObjectsWithTag("Enemy").Length);
+        EnemiesInRoom = GameObject.FindGameObjectsWithTag("Enemy").Length;
+        mainManager.EnemiesInRoom = EnemiesInRoom;
     }
 
     void LoadCurrentRoom()

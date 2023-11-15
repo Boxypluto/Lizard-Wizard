@@ -163,6 +163,7 @@ GameObject:
   - component: {fileID: 3869498667229391098}
   - component: {fileID: -7038884685012922863}
   - component: {fileID: -1855683362262056367}
+  - component: {fileID: -2787019852053142028}
   m_Layer: 8
   m_Name: Shield Generator
   m_TagString: Enemy
@@ -311,6 +312,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: -2787019852053142028}
+        m_TargetAssemblyTypeName: MMMessager, Assembly-CSharp
+        m_MethodName: BroadcastEnemyDeath
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!50 &-7038884685012922863
 Rigidbody2D:
   serializedVersion: 4
@@ -383,3 +396,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-2787019852053142028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3410971076970617022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24a5f50af074b144aadc431e85712cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
