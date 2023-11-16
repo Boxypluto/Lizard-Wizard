@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Linq;
 
 public class MainManager : MonoBehaviour
 {
@@ -12,8 +13,12 @@ public class MainManager : MonoBehaviour
     public GameObject[] MediumRooms;
     public GameObject[] HardRooms;
     public List<GameObject> RoomList = new List<GameObject>();
+    public List<GameObject> TempEasyRooms = new List<GameObject>();
+    public List<GameObject> TempMediumRooms = new List<GameObject>();
+    public List<GameObject> TempHardRooms = new List<GameObject>();
     public int RoomsInDifficulty = 7;
-    public int EnemiesInRoom;
+    public int EnemiesInRoom = 9999;
+    public string currentRoomMusic = "None";
 
     private void Awake()
     {
@@ -25,27 +30,41 @@ public class MainManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+    }
+
+    public void OnRestart()
+    {
+        RoomList.Clear();
         SetupRoomList();
+        EnemiesInRoom = 9999;
+        RoomsCleared = 0;
     }
 
     void SetupRoomList()
     {
 
-        GameObject[] TempEasyRooms = EasyRooms;
-        GameObject[] TempMediumRooms = MediumRooms;
-        GameObject[] TempHardRooms = HardRooms;
+        TempEasyRooms = EasyRooms.ToList();
+        TempMediumRooms = MediumRooms.ToList();
+        TempHardRooms = HardRooms.ToList();
 
         for (int i = 0; i < RoomsInDifficulty; i++)
         {
-            RoomList.Add(TempEasyRooms[Random.Range(0, TempEasyRooms.Length)]);
+            int pick = Random.Range(0, TempEasyRooms.Count);
+            RoomList.Add(TempEasyRooms[pick]);
+            TempEasyRooms.RemoveAt(pick);
+            
         }
         for (int i = 0; i < RoomsInDifficulty; i++)
         {
-            RoomList.Add(TempMediumRooms[Random.Range(0, TempMediumRooms.Length)]);
+            int pick = Random.Range(0, TempMediumRooms.Count);
+            RoomList.Add(TempMediumRooms[Random.Range(0, TempMediumRooms.Count)]);
+            TempMediumRooms.RemoveAt(pick);
         }
         for (int i = 0; i < RoomsInDifficulty; i++)
         {
-            RoomList.Add(TempHardRooms[Random.Range(0, TempHardRooms.Length)]);
+            int pick = Random.Range(0, TempHardRooms.Count);
+            RoomList.Add(TempHardRooms[Random.Range(0, TempHardRooms.Count)]);
+            TempHardRooms.RemoveAt(pick);
         }
 
         for (int i = 0; i < RoomList.Count; i++)
@@ -58,7 +77,7 @@ public class MainManager : MonoBehaviour
     void Update()
     {
         
-        if (EnemiesInRoom == 0)
+        if (EnemiesInRoom <= 0)
         {
             LoadNextRoom();
         }
@@ -67,10 +86,26 @@ public class MainManager : MonoBehaviour
 
     public void LoadNextRoom()
     {
-        RoomsCleared++;
-        EnemiesInRoom = 9999;
-        SceneManager.LoadScene("Room");
 
+        if (RoomsCleared >= RoomList.Count - 1)
+        {
+            EnemiesInRoom = 9999;
+
+            currentRoomMusic = "None";
+
+            if (GameObject.Find("Music Player") != null)
+            {
+                GameObject.Destroy(GameObject.Find("Music Player"));
+            }
+
+            SceneManager.LoadScene("You Win!");
+
+        } else
+        {
+            RoomsCleared++;
+            EnemiesInRoom = 9999;
+            SceneManager.LoadScene("Room");
+        }
     }
 
     

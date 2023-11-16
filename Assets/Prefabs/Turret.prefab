@@ -300,7 +300,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: -2787019852053142028, guid: bb323c4859eacc64882175ea3078caa7, type: 3}
+      - m_Target: {fileID: -6030251185175237822}
         m_TargetAssemblyTypeName: MMMessager, Assembly-CSharp
         m_MethodName: BroadcastEnemyDeath
         m_Mode: 1

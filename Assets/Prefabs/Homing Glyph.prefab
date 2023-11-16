@@ -203,7 +203,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: -2787019852053142028, guid: bb323c4859eacc64882175ea3078caa7, type: 3}
+      - m_Target: {fileID: -2112375428326011137}
         m_TargetAssemblyTypeName: MMMessager, Assembly-CSharp
         m_MethodName: BroadcastEnemyDeath
         m_Mode: 1
@@ -346,7 +346,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.48
 --- !u!1 &8616754123000939002
 GameObject:
   m_ObjectHideFlags: 0

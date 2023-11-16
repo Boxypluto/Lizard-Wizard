@@ -181,4 +181,4 @@ ScriptedImporter:
     androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 112, y: 336}
+  canvasSize: {x: 224, y: 336}
