@@ -46,21 +46,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MoveAmount = new Vector3(0, 0, 0);
         
-
-        XInput = Input.GetAxisRaw("Horizontal");
-        YInput = Input.GetAxisRaw("Vertical");
-
-        MoveAmount = transform.position;
-
-        MoveAmount += new Vector3(XInput * Time.deltaTime * speed, YInput * Time.deltaTime * speed, 0);
-
-        if (PlayerCanMove)
-        {
-            PlayerRB.MovePosition(MoveAmount);
-        }
-
         SlashUpdate(XInput, YInput);
         
         if (Input.GetKeyDown(KeyCode.X))
@@ -70,6 +56,24 @@ public class PlayerController : MonoBehaviour
 
         CloakUpdate();
         UIUpdate();
+    }
+
+    void FixedUpdate()
+    {
+        MoveAmount = new Vector3(0, 0, 0);
+
+
+        XInput = Input.GetAxisRaw("Horizontal");
+        YInput = Input.GetAxisRaw("Vertical");
+
+        MoveAmount = transform.position;
+
+        MoveAmount += new Vector3(XInput * speed, YInput * speed, 0) * Time.deltaTime;
+
+        if (PlayerCanMove)
+        {
+            PlayerRB.MovePosition(MoveAmount);
+        }
     }
 
     public void PlayerKnockback()

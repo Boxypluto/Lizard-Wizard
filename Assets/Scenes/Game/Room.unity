@@ -809,6 +809,10 @@ PrefabInstance:
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 8824626970853299654, guid: 183849499e057024f99628ff3c97215c, type: 3}
+      propertyPath: speed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8824626970853299654, guid: 183849499e057024f99628ff3c97215c, type: 3}
       propertyPath: Hearts.Array.data[0]
       value: 
       objectReference: {fileID: 1305528312}

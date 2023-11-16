@@ -546,7 +546,7 @@ MonoBehaviour:
   m_RefResolutionX: 128
   m_RefResolutionY: 128
   m_UpscaleRT: 1
-  m_PixelSnapping: 0
+  m_PixelSnapping: 1
   m_CropFrameX: 1
   m_CropFrameY: 1
   m_StretchFill: 0
